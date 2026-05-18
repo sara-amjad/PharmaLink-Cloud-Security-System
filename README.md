@@ -54,7 +54,7 @@ Sensitive data fields were encrypted using AES functions to ensure confidentiali
 All database activities were recorded using a centralized logging mechanism.
 
 <p align="center">
-  <img src="Images/Result Log Table .png" width="700"/>
+  <img src="Images/Result Log Table .png" width="600"/>
 </p>
 
 <p align="center">
