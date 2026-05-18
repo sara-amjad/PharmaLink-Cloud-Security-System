@@ -1,0 +1,9 @@
+'admin_user' 'Admin@123';
+
+ 'manu_user' 'Manu@786';
+
+'pharma_user' 'Pharma@420';
+
+ 'audit_user'  'Audit@777'
+
+Encryption Key : PLSL_Key_2025
